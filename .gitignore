@@ -1,6 +1,8 @@
 # Data files - large or personal, don't belong in git history
 data/Resume.csv
 data/resumes_raw/
+Data/Resume.csv
+Data/Resumes/
 
 # Trained models and outputs - large binary files
 outputs/*.pkl
