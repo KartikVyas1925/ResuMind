@@ -1,0 +1,26 @@
+# Data files - large or personal, don't belong in git history
+data/Resume.csv
+data/resumes_raw/
+
+# Trained models and outputs - large binary files
+outputs/*.pkl
+outputs/distilbert_job_classifier/
+outputs/distilbert_ner/
+outputs/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# OS/Editor
+.DS_Store
+.vscode/
+Thumbs.db
