@@ -2,8 +2,8 @@
 
 An end-to-end NLP system that parses resumes, extracts structured information, and scores candidate-job fit using a combination of classical ML and transformer-based deep learning — built over an 8-week self-directed internship roadmap.
 
-## Live Demo
-[](https://resumind-f4o5lpwbkp5grku8ndmuzz.streamlit.app/)
+## Live Demo## Live Demo
+[Try ResuMind live](https://your-actual-url.streamlit.app)
 
 ## What It Does
 Upload a resume (PDF) and paste a job description, and ResuMind will:
